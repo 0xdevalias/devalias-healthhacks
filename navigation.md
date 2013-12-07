@@ -1,5 +1,7 @@
 # /dev/alias | Health Hacks
 
+[Food/Diet/Etc](food-diet.md)
+
 [Supplements/Nootropics/Etc](supplements-nootropics.md)
 
 [Links/References/Etc](links-references.md)
