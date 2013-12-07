@@ -76,6 +76,7 @@ Warning! This information is provided as is and without warranty of any kind. Yo
   * [Life Extension, Super K with Advanced K2 Complex](http://www.iherb.com/Life-Extension-Super-K-with-Advanced-K2-Complex-90-Softgels/46675?rcode=wsb640)
 * Zinc
   * [Nutrient Carriers Incorporated, Advanced Research, Zinc Orotate, 60 mg](http://www.iherb.com/Nutrient-Carriers-Incorporated-Advanced-Research-Zinc-Orotate-60-mg-200-Tablets/36640?rcode=wsb640)
+  * [Life Extension, OptiZinc, 30 mg](http://www.iherb.com/Life-Extension-OptiZinc-30-mg-90-Veggie-Caps/7011?rcode=wsb640)
   * [Now Foods, Sports, ZMA](http://www.iherb.com/Now-Foods-Sports-ZMA-Sports-Recovery-180-Capsules/14497?rcode=wsb640)
 * Misc
   * [Doctor's Best, Best High Potency Serrapeptase, 120,000 SPUs](http://www.iherb.com/Doctor-s-Best-Best-High-Potency-Serrapeptase-120-000-SPUs-90-Veggie-Caps/23747?rcode=wsb640)
