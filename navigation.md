@@ -2,6 +2,8 @@
 
 [Supplements/Nootropics/Etc](supplements-nootropics.md)
 
+[Links/References/Etc](links-references.md)
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](cosmo)
 
