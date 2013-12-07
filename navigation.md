@@ -1,5 +1,7 @@
 # /dev/alias | Health Hacks
 
+[Supplements/Nootropics/Etc](supplements-nootropics.md)
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](cosmo)
 
