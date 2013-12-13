@@ -4,6 +4,8 @@
 
 [Supplements/Nootropics/Etc](supplements-nootropics.md)
 
+[Track/Quanitfy](track-quantify.md)
+
 [Links/References/Etc](links-references.md)
 
 <!-- set a default theme -->
