@@ -20,7 +20,7 @@
 [gimmick:theme (inverse: false)](cosmo)
 
 <!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
+[gimmick:ThemeChooser](Theme)
 
 <!-- show a fork me on github ribbon -->
 [gimmick:forkmeongithub](http://github.com/alias1/devalias-healthhacks/)
