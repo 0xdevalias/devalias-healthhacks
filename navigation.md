@@ -4,7 +4,7 @@
 
 [Supplements/Nootropics/Etc](supplements-nootropics.md)
 
-[Track/Quanitfy](track-quantify.md)
+[Track/Quantify](track-quantify.md)
 
 [Genetics]()
 
