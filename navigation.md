@@ -6,6 +6,10 @@
 
 [Track/Quanitfy](track-quantify.md)
 
+[Genetics]()
+
+* [Genetic Testing](genetics/genetic-testing.md)
+
 [Links/References/Etc](links-references.md)
 
 <!-- set a default theme -->
