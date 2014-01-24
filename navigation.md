@@ -12,6 +12,7 @@
 
 [Health Issues]()
 
+* [Excessive Sweating](health-issues/excessive-sweating.md)
 * [Methylation Issues](health-issues/methylation-issues.md)
 
 [Links/References/Etc](links-references.md)
