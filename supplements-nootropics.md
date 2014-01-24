@@ -22,8 +22,9 @@ Warning! This information is provided as is and without warranty of any kind. Yo
   * [Upgraded Aging](http://www.pjatr.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-aging-formula)
 * Misc
 
-## [Optimoz (Bulletproof Australia Store)](http://www.optimoz.com.au/)
+## Optimoz (Bulletproof Australia Store)
 
+* [Optimoz (Bulletproof Australia Store)](http://www.optimoz.com.au/)
 * Coffee
   * [Upgraded Coffee Beans (2.25kg)](http://www.optimoz.com.au/products/bulletproof-upgraded-coffee-beans-2-25-kg)
   * [Upgraded Coffee Beans (340g)](http://www.optimoz.com.au/products/bulletproof-upgraded-coffee-beans-340-gram)
@@ -41,8 +42,9 @@ Warning! This information is provided as is and without warranty of any kind. Yo
 * Misc
   * [Organic Turmeric Capsules](http://www.optimoz.com.au/collections/super-foods/products/organic-turmeric)
 
-## [iHerb](http://www.iherb.com/?rcode=WSB640)
+## iHerb
 
+* [iHerb](http://www.iherb.com/?rcode=WSB640)
 * Absorption
   * [Source Naturals, BioPerine, 10 mg](http://www.iherb.com/Source-Naturals-BioPerine-10-mg-120-Tablets/992?rcode=wsb640)
 * Depression
