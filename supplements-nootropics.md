@@ -4,7 +4,7 @@ This page contains links to a bunch of supplements and/or nootropics that you ma
 
 Warning! This information is provided as is and without warranty of any kind. You take full responsibility for what you do with it.
 
-### [Upgraded Self (Bulletproof US Store)](http://www.upgradedself.com/)
+## [Upgraded Self (Bulletproof US Store)](http://www.upgradedself.com/)
 
 * Coffee
   * [Upgraded Coffee Beans (2.25kg)](http://www.upgradedself.com/products/bulletproof-upgraded-coffee-5lb)
@@ -22,7 +22,7 @@ Warning! This information is provided as is and without warranty of any kind. Yo
   * [Upgraded Aging](http://www.upgradedself.com/products/bulletproof-upgraded-aging-formula)
 * Misc
 
-### [Optimoz (Bulletproof Australia Store)](http://www.optimoz.com.au/)
+## [Optimoz (Bulletproof Australia Store)](http://www.optimoz.com.au/)
 
 * Coffee
   * [Upgraded Coffee Beans (2.25kg)](http://www.optimoz.com.au/products/bulletproof-upgraded-coffee-beans-2-25-kg)
@@ -41,7 +41,7 @@ Warning! This information is provided as is and without warranty of any kind. Yo
 * Misc
   * [Organic Turmeric Capsules](http://www.optimoz.com.au/collections/super-foods/products/organic-turmeric)
 
-### [iHerb](http://www.iherb.com/?rcode=WSB640)
+## [iHerb](http://www.iherb.com/?rcode=WSB640)
 
 * Absorption
   * [Source Naturals, BioPerine, 10 mg](http://www.iherb.com/Source-Naturals-BioPerine-10-mg-120-Tablets/992?rcode=wsb640)
@@ -101,7 +101,7 @@ Warning! This information is provided as is and without warranty of any kind. Yo
       * [Now Foods, Artichoke Extract](http://www.iherb.com/Now-Foods-Artichoke-Extract-450-mg-90-Vcaps/8223?rcode=wsb640)
       * [Life Extension, Forskolin, 10 mg](http://www.iherb.com/Life-Extension-Forskolin-10-mg-60-Capsules/4043?rcode=wsb640)
 
-### Other/Misc
+## Other/Misc
 
 * Selegiline/Deprenyl ([Wikipedia](http://en.wikipedia.org/wiki/Selegiline))
   * [Selgin (5mg) | AllDayChemist](http://www.alldaychemist.com/selgin.html)
