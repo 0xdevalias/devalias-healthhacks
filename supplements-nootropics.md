@@ -4,22 +4,22 @@ This page contains links to a bunch of supplements and/or nootropics that you ma
 
 Warning! This information is provided as is and without warranty of any kind. You take full responsibility for what you do with it.
 
-## [Upgraded Self (Bulletproof US Store)](http://www.upgradedself.com/)
-
+## Upgraded Self (Bulletproof US Store)
+* [Upgraded Self (Bulletproof US Store)](http://www.gopjn.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y)
 * Coffee
-  * [Upgraded Coffee Beans (2.25kg)](http://www.upgradedself.com/products/bulletproof-upgraded-coffee-5lb)
-  * [Upgraded Coffee Beans (340g)](http://www.upgradedself.com/products/bulletproof-upgraded-coffee-12oz)
-  * [Decaffeinated Upgraded Coffee Beans (340g)](http://www.upgradedself.com/products/bulletproof-upgraded-decaf-coffee-12oz)
+  * [Upgraded Coffee Beans (2.25kg)](http://www.pntrac.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-coffee-5lb)
+  * [Upgraded Coffee Beans (340g)](http://www.pntrac.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-coffee-12oz)
+  * [Decaffeinated Upgraded Coffee Beans (340g)](http://www.pntra.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-decaf-coffee-12oz)
 * MCT Oil
-  * [Upgraded MCT Oil](http://www.upgradedself.com/products/bulletproof-upgraded-MCT-oil-32-Fl-Oz)
-  * [Upgraded Brain Octane](http://www.upgradedself.com/products/bulletproof-upgraded-brain-octane-oil)
+  * [Upgraded MCT Oil](http://www.gopjn.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-MCT-oil-32-Fl-Oz)
+  * [Upgraded Brain Octane](http://www.gopjn.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-brain-octane-oil)
 * Protein
-  * [Upgraded Whey Protein](http://www.upgradedself.com/products/bulletproof-upgraded-whey-2.0)
-  * [Upgraded Collagen Protein](http://www.upgradedself.com/products/bulletproof-upgraded-collagen-protein)
+  * [Upgraded Whey Protein](http://www.pntra.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-whey-2.0)
+  * [Upgraded Collagen Protein](http://www.pntra.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-collagen-protein)
 * Supplements
-  * [Upgraded Coconut Charcoal](http://www.upgradedself.com/products/bulletproof-upgraded-coconut-charcoal)
-  * [Upgraded Glutathione Force](http://www.upgradedself.com/products/bulletproof-upgraded-glutathione-force)
-  * [Upgraded Aging](http://www.upgradedself.com/products/bulletproof-upgraded-aging-formula)
+  * [Upgraded Coconut Charcoal](http://www.pntrs.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-coconut-charcoal)
+  * [Upgraded Glutathione Force](http://www.pntrs.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-glutathione-force)
+  * [Upgraded Aging](http://www.pjatr.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y?url=http%3A%2F%2Fwww.upgradedself.com%2Fproducts%2Fbulletproof-upgraded-aging-formula)
 * Misc
 
 ## [Optimoz (Bulletproof Australia Store)](http://www.optimoz.com.au/)
