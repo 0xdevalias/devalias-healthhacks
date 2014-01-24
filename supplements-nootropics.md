@@ -103,6 +103,11 @@ Warning! This information is provided as is and without warranty of any kind. Yo
       * [Now Foods, Artichoke Extract](http://www.iherb.com/Now-Foods-Artichoke-Extract-450-mg-90-Vcaps/8223?rcode=wsb640)
       * [Life Extension, Forskolin, 10 mg](http://www.iherb.com/Life-Extension-Forskolin-10-mg-60-Capsules/4043?rcode=wsb640)
 
+## Prescript-Assist
+
+* [Prescript-Assist Probiotic](http://www.prescript-assist.com/products/)
+  * [Buy Prescript-Assist Probiotic Online](http://www.magneticclay.com/store/prescript-assist-probiotic.aspx)
+
 ## Other/Misc
 
 Warning: I hold no responsibility for the legality or reliability of these sources/info.
