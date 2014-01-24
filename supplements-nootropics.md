@@ -105,6 +105,8 @@ Warning! This information is provided as is and without warranty of any kind. Yo
 
 ## Other/Misc
 
+Warning: I hold no responsibility for the legality or reliability of these sources/info.
+
 * Selegiline/Deprenyl ([Wikipedia](http://en.wikipedia.org/wiki/Selegiline))
   * [Selgin (5mg) | AllDayChemist](http://www.alldaychemist.com/selgin.html)
 * Modafinil/Armodafinil
