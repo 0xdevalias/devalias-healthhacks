@@ -107,6 +107,7 @@ Warning! This information is provided as is and without warranty of any kind. Yo
 
 * [Prescript-Assist Probiotic](http://www.prescript-assist.com/products/)
   * [Buy Prescript-Assist Probiotic Online](http://www.magneticclay.com/store/prescript-assist-probiotic.aspx)
+  * [Australian Distributor](http://www.rejuvehealth.com/)
 
 ## Other/Misc
 
