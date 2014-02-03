@@ -6,6 +6,7 @@
 
 [Tech]()
 
+* [EEG &amp; Neuro Feedback](eeg-neurofeedback.md)
 * [tDCS](tech/tdcs.md)
 
 [Track/Quantify](track-quantify.md)
