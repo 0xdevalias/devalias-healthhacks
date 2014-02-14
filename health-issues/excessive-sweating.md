@@ -10,3 +10,5 @@
 * [Iontophoresis](http://en.wikipedia.org/wiki/Iontophoresis)
   * http://www.sweathelp.org/en/hyperhidrosis-treatments/iontophoresis.html
   * [How to Build Your Own Homemade Iontophoresis Device](http://www.youtube.com/watch?v=bOQfjZ9-Akw)
+  * http://www.curesweatypalmsin5days.com/building-your-own-iontophoresis-device/
+  * http://lathouwers.ws/DIYIontophoresisMachine
