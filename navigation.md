@@ -17,6 +17,7 @@
 
 [Health Issues]()
 
+* [Candida/Candidiasis](health-issues/candida-candidiasis.md)
 * [Excessive Sweating](health-issues/excessive-sweating.md)
 * [Hallucinations](health-issues/hallucinations.md)
 * [Methylation Issues](health-issues/methylation-issues.md)
