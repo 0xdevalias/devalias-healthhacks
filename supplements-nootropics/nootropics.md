@@ -2,7 +2,7 @@
 
 Warning: I hold no responsibility for the legality or reliability of these sources/info.
 
-# Online Stores, Etc
+## Online Stores, Etc
 
 * http://www.biosciencenutra.com/
 * http://www.cognitivenutrition.com/
