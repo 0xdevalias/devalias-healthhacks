@@ -2,7 +2,10 @@
 
 [Food/Diet/Etc](food-diet.md)
 
-[Supplements/Nootropics/Etc](supplements-nootropics.md)
+[Supplements/Nootropics/Etc]()
+
+* [Supplements/Nootropics/Etc](supplements-nootropics/supplements-nootropics.md)
+* [Nootropics](supplements-nootropics/nootropics.md)
 
 [Tech]()
 
