@@ -109,12 +109,8 @@ Warning! This information is provided as is and without warranty of any kind. Yo
   * [Buy Prescript-Assist Probiotic Online](http://www.magneticclay.com/store/prescript-assist-probiotic.aspx)
   * [Australian Distributor](http://www.rejuvehealth.com/)
 
-## Other/Misc
+## Nootropics
 
-Warning: I hold no responsibility for the legality or reliability of these sources/info.
+See [nootropics.md]
 
-* Selegiline/Deprenyl ([Wikipedia](http://en.wikipedia.org/wiki/Selegiline))
-  * [Selgin (5mg) | AllDayChemist](http://www.alldaychemist.com/selgin.html)
-* Modafinil/Armodafinil
-  * Modafinil ([Wikipedia](http://en.wikipedia.org/wiki/Modafinil))
-  * Armodafinil ([Wikipedia](http://en.wikipedia.org/wiki/Armodafinil))
+
