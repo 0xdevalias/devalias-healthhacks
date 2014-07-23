@@ -4,6 +4,11 @@ This page contains links to a bunch of supplements and/or nootropics that you ma
 
 Warning! This information is provided as is and without warranty of any kind. You take full responsibility for what you do with it.
 
+## Bulletproof
+
+* http://www.bulletproofexec.com/optimize-your-supplements/
+* http://www.bulletproofexec.com/wp-content/uploads/2014/01/Bulletproof-Top-11-Advanced-Supplements.pdf
+
 ## Upgraded Self (Bulletproof US Store)
 * [Upgraded Self (Bulletproof US Store)](http://www.gopjn.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y)
 * Coffee
