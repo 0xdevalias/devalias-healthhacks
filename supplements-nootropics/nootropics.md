@@ -13,7 +13,6 @@ Warning: I hold no responsibility for the legality or reliability of these sourc
   * http://teamtlr.com/16-nootropic-research
 * http://tht.co/index.php
 * https://newmind.com/nootropics.html
-* ~http://www.biosciencenutra.com/~ [Warning: Cerebral Health/Bioscience Nutra](http://www.reddit.com/r/Nootropics/comments/1mmip9/cerebral_health_pyritinol_test_results_warning/)
 * http://www.cognitivenutrition.com/
 * http://nootriment.com/ (Used to be http://bestnootropic.org/)
 * https://www.newstarnootropics.com/ (Down?)
@@ -21,6 +20,7 @@ Warning: I hold no responsibility for the legality or reliability of these sourc
 * http://ceretropic.com/
 * http://advancenootropics.com/
 * https://www.onnit.com/
+* ~~http://www.biosciencenutra.com/~~ [Warning: Cerebral Health/Bioscience Nutra](http://www.reddit.com/r/Nootropics/comments/1mmip9/cerebral_health_pyritinol_test_results_warning/)
 * Cost Comparisons
   * http://www.noophound.com/
 
