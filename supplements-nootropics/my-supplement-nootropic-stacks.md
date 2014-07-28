@@ -8,7 +8,7 @@
     * MAOI?
     * Can mix all of this as bulk powders into a shake? Will it taste ok? If so, add coconut milk powder, MCT oil, chocolate/vanilla, etc?
     * If the shake idea works (or even as pills), could look at individual serves in foil ziplocks.
-    *
+
 ### Version 2014-07-24
 
   * 3 x 1 x L-Tyrosine (750mg, Now Foods) /or/ 3 x 1 x L-Tyrosine (500mg, Puritans Pride)
