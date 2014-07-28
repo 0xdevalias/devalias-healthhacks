@@ -6,6 +6,7 @@
 
 * [Supplements/Nootropics/Etc](supplements-nootropics/supplements-nootropics.md)
 * [Nootropics](supplements-nootropics/nootropics.md)
+* [My Supplement/Nootropic Stacks](supplements-nootropics/my-supplement-nootropic-stacks.md)
 
 [Tech]()
 
