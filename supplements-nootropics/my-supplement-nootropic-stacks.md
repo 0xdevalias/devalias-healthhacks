@@ -45,6 +45,19 @@
 
 The following are my general supplement 'pack' lists, in descending chronological order.
 
+### Version 2014-09-09
+
+* Vit D Megadosing
+  * 10 x 10kIU Vitamin D3 (Healthy Origins)
+  * 10 x Super K (LifeExtension)
+* 1 x 15kIU Vitamin A (Carlson)
+* 1 x Basic B Complex (Thorne Research)
+* 2 x Complete E (MRM)
+* 4 x Organic Tumeric (Therapeia)
+* Absorption
+  * 1 x 10mg BioPerine (Source Naturals)
+ 
+
 ### Version 2014-06-02
 
 * 1x Probiotic (Prescript Assist)
