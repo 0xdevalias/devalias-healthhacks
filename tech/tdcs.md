@@ -1,5 +1,7 @@
 # tDCS (Transcranial direct-current stimulation)
 
+* See also:
+  * [Brain Training/Hacking | /dev/alias - Neural Mind](http://alias1.github.io/devalias-neuralmind/#!biohacking-learning/brain-training-hacking.md)
 * http://www.trans-cranial.com
   * http://www.trans-cranial.com/manuals
     * http://www.trans-cranial.com/local/manuals/10_20_pos_man_v1_0_pdf.pdf
