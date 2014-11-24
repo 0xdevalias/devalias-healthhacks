@@ -20,7 +20,10 @@
 ## Devices
 
 * [tDCS Transcranial Stimulation Kit | Trans-Cranial.com](http://www.trans-cranial.com/tct/end-users-patients/tdcs-stimulator-products/) (US$379 + postage)
-* http://thebrainstimulator.net/
+* http://thebrainstimulator.net/ (US$90-150 + postage)
+* http://www.tdcs-kit.com/ (US$40 + postage)
+* http://www.foc.us/ (US$200-300 + postage)
+* http://www.scriphessco.com/products/activa-activadose-ii-iontophoresis-device/ (US$295 + postage)
 
 ## tDCS Montage
 
