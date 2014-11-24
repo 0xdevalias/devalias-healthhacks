@@ -11,6 +11,11 @@
 * http://www.diytdcs.com/
 * http://speakwisdom.wordpress.com/2013/08/31/the-foc-us-tdcs-headset-review-part-4-electrode-placements/
 * Inhibit left anterior temporal lobe, stimulate right anterior temporal lobe = stimulate creativity/etc (good for learning too?)
+* https://speakwisdom.wordpress.com/tag/tdcs-kit/
+  * General Electrode Placement: http://www.jove.com/video/2744/electrode-positioning-montage-transcranial-direct-current
+  * General Electrode Placements for learning, memory, depression, savant learning, and chronic pain: https://speakwisdom.wordpress.com/2013/08/31/the-foc-us-tdcs-headset-review-part-4-electrode-placements/
+  * Depression: https://speakwisdom.wordpress.com/2012/12/06/area-25-is-way-more-important-than-area-51/
+  * Depression: https://speakwisdom.wordpress.com/2013/03/23/4-inthe-youtube-series-treating-depression-with-tdcs/
 
 ## Devices
 
