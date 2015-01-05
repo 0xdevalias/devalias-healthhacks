@@ -27,6 +27,8 @@
 * [Methylation Issues](health-issues/methylation-issues.md)
 * [Skin/Hair](health-issues/skin-hair.md)
 
+[Medical/Wellness](medical-wellness.md)
+
 [Links/References/Etc](links-references.md)
 
 <!-- set a default theme -->
