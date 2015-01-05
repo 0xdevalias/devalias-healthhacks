@@ -4,6 +4,15 @@ This page contains links to a bunch of supplements and/or nootropics that you ma
 
 Warning! This information is provided as is and without warranty of any kind. You take full responsibility for what you do with it.
 
+## Hacks
+
+* [DIY Liposomal Vitamin C](https://www.youtube.com/watch?v=F2eqfiTxDwg)
+  * [Isonic P4810 Ultrasonic Cleaner ](http://smile.amazon.com/Isonic-P4810-Ultrasonic-Cleaner-Jewelry/dp/B00C77O366) 
+  * [Now Foods, Lecithin Granules](http://www.iherb.com/Now-Foods-Lecithin-Granules-2-lbs-907-g/23289)
+  * [Now Foods, Vitamin C Crystals](http://www.iherb.com/Now-Foods-Vitamin-C-Crystals-3-lbs-1361-g/390)
+  * Could also do with MCT oil?
+  * http://www.longecity.org/forum/topic/67050-make-your-own-liposomal-vitamin-c-resveratrol-and-curcumin/
+
 ## Bulletproof
 
 * http://www.bulletproofexec.com/optimize-your-supplements/
