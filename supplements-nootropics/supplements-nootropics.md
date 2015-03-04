@@ -38,23 +38,23 @@ Warning! This information is provided as is and without warranty of any kind. Yo
 
 ## Optimoz (Bulletproof Australia Store)
 
-* [Optimoz (Bulletproof Australia Store)](http://www.optimoz.com.au/)
+* [Optimoz (Bulletproof Australia Store)](http://optimoz.myshopify.com/?rfsn=75133.2391a)
 * Coffee
-  * [Upgraded Coffee Beans (2.25kg)](http://www.optimoz.com.au/products/bulletproof-upgraded-coffee-beans-2-25-kg)
-  * [Upgraded Coffee Beans (340g)](http://www.optimoz.com.au/products/bulletproof-upgraded-coffee-beans-340-gram)
-  * [Decaffeinated Upgraded Coffee Beans (340g)](http://www.optimoz.com.au/products/decaf-upgraded-coffee-beans-340gm)
+  * [Upgraded Coffee Beans (2.25kg)](https://optimoz.refersion.com/l/499.29038)
+  * [Upgraded Coffee Beans (340g)](https://optimoz.refersion.com/l/60c.29039)
+  * [Decaffeinated Upgraded Coffee Beans (340g)](https://optimoz.refersion.com/l/577.29042)
 * MCT Oil
-  * [Upgraded MCT Oil](http://www.optimoz.com.au/collections/all/products/bulletproof-upgraded-mct-oil-960-ml-32-fl-oz)
-  * [Upgraded Brain Octane](http://www.optimoz.com.au/collections/all/products/bulletproof-upgraded-brain-octane)
+  * [Upgraded MCT Oil](https://optimoz.refersion.com/l/191.29048)
+  * [Upgraded Brain Octane](https://optimoz.refersion.com/l/61b.29053)
 * Protein
-  * [Upgraded Whey Protein](http://www.optimoz.com.au/products/upgraded-whey)
-  * [Upgraded Collagen Protein](http://www.optimoz.com.au/collections/coming-soon/products/bulletproof-upgraded-collagen-protein)
+  * [Upgraded Whey Protein](https://optimoz.refersion.com/l/5ee.29061)
+  * [Upgraded Collagen Protein](https://optimoz.refersion.com/l/278.29069)
 * Supplements
-  * [Upgraded Coconut Charcoal](http://www.optimoz.com.au/collections/coming-soon/products/bulletproof-upgraded-coconut-charcoal)
-  * [Upgraded Glutathione Force](http://www.optimoz.com.au/products/bulletproof-upgraded-glutathione)
-  * [Upgraded Aging](http://www.optimoz.com.au/products/bulletproof-upgraded-aging-formula)
+  * [Upgraded Coconut Charcoal](https://optimoz.refersion.com/l/fa6.29078)
+  * [Upgraded Glutathione Force](https://optimoz.refersion.com/l/ce5.29098)
+  * [Upgraded Aging](https://optimoz.refersion.com/l/87e.29119)
 * Misc
-  * [Organic Turmeric Capsules](http://www.optimoz.com.au/collections/super-foods/products/organic-turmeric)
+  * [Organic Turmeric Capsules](https://optimoz.refersion.com/l/a30.29141)
 
 ## iHerb
 
